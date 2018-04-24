@@ -17,7 +17,6 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 # Main Scene : Loft style apartment with a rotating globe, animated clock & background music in Google Cardboard VR mode (stereoscopic)
 
-# Resubmission : ammendments include ... all non animated objects marked as static including chessboard, lights fully baked, game objects resized and positioned level with floor, main camera angle adjusted.
 
 # Background : 
 # Apartment scene with background music playing - consists of >20 3D models all marked as static. Includes : walls, flooring, ceiling, lighting, lounge area (3 sofas, coffee table & large TV with stand); dining area ( table, 4 chairs & fruit bowl); kitchen area ( wall & floor cabinets with microwave & sink with taps); 2 x comfortable arm chair, wall decorations (including clock & 2 pictures).
