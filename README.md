@@ -22,7 +22,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 # Apartment scene with background music playing - consists of >20 3D models all marked as static. Includes : walls, flooring, ceiling, lighting, lounge area (3 sofas, coffee table & large TV with stand); dining area ( table, 4 chairs & fruit bowl); kitchen area ( wall & floor cabinets with microwave & sink with taps); 2 x comfortable arm chair, wall decorations (including clock & 2 pictures).
 
 
-# Animaton : Globe is textured with planet map (imported sset). The globe rotates when clicked & will only stop when clicked again. Clock minute hand rotates.
+# Animaton : Globe is textured with planet map (imported set). The globe rotates when clicked & will only stop when clicked again. Clock minute hand rotates.
 
 # Assets used : as provied in Udacity project template with additions as below ..
 # Imported Assets :
@@ -48,5 +48,5 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 #  Lighting was experimental & proved to have variable results
 #  Issues with unwanted dark shadows from the bookshelf & books led to unchecking the bookshelf.
 #  Enjoyed the project although I found dealing with unexpected results in lighting shadows quite a challenge. 
-# Did get a version working with music as well - fun !
-# Achieved most of origial aims in the end :-) though dissapointed in quality of visual detail after baking lights and selectcing mobile performancce settings but project was interesting to do at this stage of VR NanoDegree
+# Did get a version working with music as well to create atmosphere
+# Achieved most of origial aims in the end :-) though dissapointed in quality of visual detail after baking lights and selecting mobile performancce settings but project was interesting to do at this stage of VR NanoDegree and fun
